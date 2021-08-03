@@ -1,2 +1,2 @@
 # leets
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub).
+Haphazard attempts to enjoy programming again after UC Berkeley ruined my life. [LeetHub](https://github.com/QasimWani/LeetHub).
